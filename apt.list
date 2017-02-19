@@ -19,6 +19,12 @@ bsdmainutils
 # https://xkcd.com/1168/
 unp
 
+
+#not on localhost
+ledger
+mutt
+remind
+
 #programming
 vim
 git
@@ -39,6 +45,7 @@ strace
 lsof
 telnet
 rgxg
+#ansible
 #rkhunter
 #etckeeper
 
@@ -60,7 +67,8 @@ redshift
 xfce4
 firefox
 xsel
+#xdotool
 
 #fun
 #sl
-
+#figlet
