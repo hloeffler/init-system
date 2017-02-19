@@ -28,6 +28,7 @@ remind
 #programming
 vim
 git
+sqlite3
 ##shell
 shellcheck
 ##perl
