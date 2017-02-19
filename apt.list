@@ -1,3 +1,6 @@
+#TODO: split into multiple files?
+#this is only for default pkgmgr (currently ubuntu/debian)
+
 #shell
 vim
 zsh
@@ -38,3 +41,10 @@ mr
 jq
 bc
 ncdu
+
+#container
+#docker - not via default pkg manager
+
+#desktop
+xfce4
+firefox
