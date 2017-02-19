@@ -1,6 +1,9 @@
 #TODO: split into multiple files?
 #this is only for default pkgmgr (currently ubuntu/debian)
 
+#ubuntu/debian base
+aptitude
+
 #shell
 vim
 zsh
@@ -10,6 +13,11 @@ ssh-client
 rsync
 git
 rgxg
+gawk
+# cant live without "column -t"
+bsdmainutils
+# https://xkcd.com/1168/
+unp
 
 #programming
 vim
@@ -31,6 +39,8 @@ strace
 lsof
 telnet
 rgxg
+#rkhunter
+#etckeeper
 
 #$need $name
 autossh
@@ -46,5 +56,11 @@ ncdu
 #docker - not via default pkg manager
 
 #desktop
+redshift
 xfce4
 firefox
+xsel
+
+#fun
+#sl
+
