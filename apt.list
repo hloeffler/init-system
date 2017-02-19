@@ -12,3 +12,13 @@ moreutils
 telnet
 vcsh
 rgxg
+less
+mr
+rsync
+jq
+bc
+sysdig
+tcpdump
+strace
+lsof
+ncdu
