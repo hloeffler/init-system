@@ -7,3 +7,6 @@
 - [ ] add list for alpine
 
 - [ ] generate lists with unique packages
+
+
+- [ ] http://redsymbol.net/articles/unofficial-bash-strict-mode/
