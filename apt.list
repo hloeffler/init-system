@@ -21,9 +21,9 @@ unp
 
 
 #not on localhost
-ledger
-mutt
-remind
+#ledger
+#mutt
+#remind
 
 #programming
 vim
@@ -73,3 +73,7 @@ xsel
 #fun
 #sl
 #figlet
+
+
+# todo: (not used atm / i want to take a look)
+# slurm
