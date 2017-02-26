@@ -7,6 +7,7 @@ aptitude
 #shell
 vim
 zsh
+silversearcher-ag
 htop
 tmux
 ssh-client
@@ -52,6 +53,7 @@ rgxg
 
 #$need $name
 autossh
+# moreutils is for vidir
 moreutils
 vcsh
 less
