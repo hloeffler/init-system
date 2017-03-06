@@ -36,6 +36,7 @@ shellcheck
 perltidy
 
 #sysadmin
+openconnect
 rsync
 oping
 hping3
