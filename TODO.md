@@ -1,3 +1,5 @@
+- [ ] disable guest user...
+
 - [ ] dotfile management
 - [ ] setup ansible
 - [ ] setup (new) ssh-keys
