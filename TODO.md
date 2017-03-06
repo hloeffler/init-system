@@ -1,5 +1,7 @@
 - [ ] disable guest user...
 
+- [ ] read: https://sites.google.com/site/easylinuxtipsproject/alternative
+
 - [ ] dotfile management
 - [ ] setup ansible
 - [ ] setup (new) ssh-keys
