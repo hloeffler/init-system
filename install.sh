@@ -4,6 +4,7 @@ aptitude \
 autossh \
 bc \
 bsdmainutils \
+curl \
 firefox \
 gawk \
 git \
@@ -16,6 +17,7 @@ moreutils \
 mr \
 mtr-tiny \
 ncdu \
+openconnect \
 oping \
 perltidy \
 redshift \
@@ -33,6 +35,6 @@ tmux \
 unp \
 vcsh \
 vim \
-xfce4 \
 xsel \
+xubuntu-desktop \
 zsh \
