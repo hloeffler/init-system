@@ -37,4 +37,5 @@ vcsh \
 vim \
 xsel \
 xubuntu-desktop \
+youtube-dl \
 zsh \

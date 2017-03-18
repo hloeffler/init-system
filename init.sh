@@ -14,4 +14,4 @@ for p in ${PKG_LIST}; do
   echo "${p} \\" >> ${TARGET_FILE};
 done
 
-
+chmod +x ${TARGET_FILE}
