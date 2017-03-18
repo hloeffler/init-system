@@ -5,6 +5,7 @@ autossh \
 bc \
 bsdmainutils \
 curl \
+ffmpeg \
 firefox \
 gawk \
 git \
@@ -20,6 +21,7 @@ ncdu \
 openconnect \
 oping \
 perltidy \
+python-pip \
 redshift \
 rgxg \
 rsync \
@@ -37,5 +39,4 @@ vcsh \
 vim \
 xsel \
 xubuntu-desktop \
-youtube-dl \
 zsh \
