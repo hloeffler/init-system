@@ -18,3 +18,5 @@
 - [ ] https://github.com/StevenBlack/hosts
 
 pip install youtube-dl
+
+apt install hwloc-nox  && lstopo --of txt
