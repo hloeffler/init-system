@@ -73,9 +73,17 @@ redshift
 xubuntu-desktop
 firefox
 xsel
+
+ffmpeg
+libav-tools
+
+#youtube-dl
 #xdotool
 #quodlibet
 #soundconverter
+
+#
+python-pip
 
 #fun
 #sl
