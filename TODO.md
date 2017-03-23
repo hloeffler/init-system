@@ -1,3 +1,7 @@
+- [ ] firejail profiles
+
+- [ ] use debian again? -> alpine?
+
 - [ ] disable guest user...
 
 - [ ] read: https://sites.google.com/site/easylinuxtipsproject/alternative

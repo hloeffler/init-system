@@ -1,8 +1,6 @@
 #!/bin/sh
 
-#Useless Use of Cat Award - http://porkmail.org/era/unix/award.html#cat
-
-PKG_LIST=$(cat apt.list | grep -v -e '^#' -e '^$' apt.list | sort | uniq | xargs)
+PKG_LIST=$(grep -v -e '^#' -e '^$' apt.list | sort | uniq | xargs)
 
 TARGET_FILE="install.sh"
 
@@ -13,5 +11,7 @@ echo "sudo apt-get install --no-install-recommends \\" >> ${TARGET_FILE}
 for p in ${PKG_LIST}; do
   echo "${p} \\" >> ${TARGET_FILE};
 done
+
+  echo '&& echo "done"' >> ${TARGET_FILE};
 
 chmod +x ${TARGET_FILE}

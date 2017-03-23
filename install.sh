@@ -7,6 +7,7 @@ bsdmainutils \
 curl \
 ffmpeg \
 firefox \
+firejail \
 gawk \
 git \
 hping3 \

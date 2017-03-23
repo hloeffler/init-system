@@ -69,6 +69,7 @@ ncdu
 #docker - not via default pkg manager
 
 #desktop
+firejail
 redshift
 xubuntu-desktop
 firefox
