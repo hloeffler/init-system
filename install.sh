@@ -23,6 +23,7 @@ ncdu \
 openconnect \
 oping \
 perltidy \
+powertop \
 python-pip \
 redshift \
 rgxg \
@@ -42,3 +43,4 @@ vim \
 xsel \
 xubuntu-desktop \
 zsh \
+&& echo "done"

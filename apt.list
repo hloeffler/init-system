@@ -21,7 +21,8 @@ bsdmainutils
 unp
 curl
 
-
+#laptop
+powertop
 
 #not on localhost
 #ledger
