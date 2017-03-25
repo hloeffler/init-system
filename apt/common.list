@@ -20,12 +20,6 @@ bsdmainutils
 unp
 curl
 
-<<<<<<< HEAD:apt/common.list
-=======
-#laptop
-powertop
->>>>>>> f855f6dcc04ccf744e601d8b6496a3bc830f8548:apt.list
-
 #not on localhost
 #ledger
 #mutt
