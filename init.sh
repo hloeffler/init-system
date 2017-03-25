@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PKG_LIST=$(grep -v -e '^#' -e '^$' apt.list | sort | uniq | xargs)
+PKG_LIST=$(grep --no-filename -v -e '^#' -e '^$' apt/*.list| sort | uniq | xargs)
 
 TARGET_FILE="install.sh"
 

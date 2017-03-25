@@ -42,3 +42,4 @@ vim \
 xsel \
 xubuntu-desktop \
 zsh \
+&& echo "done"
