@@ -32,7 +32,9 @@ shellcheck \
 silversearcher-ag \
 sqlite3 \
 ssh-client \
+stow \
 strace \
+subversion \
 sysdig \
 tcpdump \
 telnet \

@@ -12,6 +12,7 @@ tmux
 ssh-client
 rsync
 git
+subversion
 rgxg
 gawk
 # cant live without "column -t"
@@ -19,6 +20,7 @@ bsdmainutils
 # https://xkcd.com/1168/
 unp
 curl
+stow
 
 #not on localhost
 #ledger
