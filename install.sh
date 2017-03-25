@@ -23,6 +23,7 @@ ncdu \
 openconnect \
 oping \
 perltidy \
+powertop \
 python-pip \
 redshift \
 rgxg \
