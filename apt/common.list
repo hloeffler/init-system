@@ -21,6 +21,7 @@ bsdmainutils
 unp
 curl
 stow
+tree
 
 #not on localhost
 #ledger

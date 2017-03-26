@@ -39,6 +39,7 @@ sysdig \
 tcpdump \
 telnet \
 tmux \
+tree \
 unp \
 vcsh \
 vim \
