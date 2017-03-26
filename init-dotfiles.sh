@@ -9,7 +9,7 @@ cd "${DDIRECTORY}"
 DDIRECTORY_ZSH="${DDIRECTORY}/zsh-config"
 
 if [ -d "$DDIRECTORY_ZSH" ]; then
-  cd $DDIRECTORY_ZSH && git pull
+  cd "$DDIRECTORY_ZSH" && git pull
   cd -
 else
   git clone git@github.com:hloeffler/zsh-config.git
