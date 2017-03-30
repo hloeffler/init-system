@@ -24,3 +24,5 @@
 pip install youtube-dl
 
 apt install hwloc-nox  && lstopo --of txt
+
+try https://github.com/BurntSushi/ripgrep
