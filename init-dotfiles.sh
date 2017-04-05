@@ -15,3 +15,9 @@ else
   git clone git@github.com:hloeffler/zsh-config.git
 fi
 stow zsh-config
+if [ -d "${HOME}/.zsh/zsh-syntax-highlighting" ]; then
+	echo "skip clone zsh-syntax-highlighting";
+else
+	cd "${HOME}/.zsh"
+	git clone --branch 0.5.0 https://github.com/zsh-users/zsh-syntax-highlighting.git
+fi
