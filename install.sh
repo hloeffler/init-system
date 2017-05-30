@@ -20,6 +20,7 @@ moreutils \
 mr \
 mtr-tiny \
 ncdu \
+num-utils \
 openconnect \
 oping \
 perltidy \

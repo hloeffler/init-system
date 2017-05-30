@@ -15,6 +15,7 @@ git
 subversion
 rgxg
 gawk
+num-utils
 # cant live without "column -t"
 bsdmainutils
 # https://xkcd.com/1168/
