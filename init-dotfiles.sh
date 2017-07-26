@@ -12,7 +12,7 @@ if [ -d "$DDIRECTORY_ZSH" ]; then
   cd "$DDIRECTORY_ZSH" && git pull
   cd -
 else
-  git clone git@github.com:hloeffler/zsh-config.git
+  git clone https://github.com/hloeffler/zsh-config.git
 fi
 stow zsh-config
 if [ -d "${HOME}/.zsh/zsh-syntax-highlighting" ]; then
