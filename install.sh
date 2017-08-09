@@ -13,6 +13,7 @@ git \
 hping3 \
 htop \
 jq \
+keychain \
 less \
 libav-tools \
 lsof \

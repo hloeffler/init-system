@@ -6,6 +6,8 @@ xubuntu-desktop
 firefox
 xsel
 
+#guake
+
 ffmpeg
 libav-tools
 

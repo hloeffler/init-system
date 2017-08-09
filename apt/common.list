@@ -23,6 +23,7 @@ unp
 curl
 stow
 tree
+keychain
 
 #not on localhost
 #ledger
