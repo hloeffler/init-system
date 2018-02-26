@@ -24,6 +24,7 @@ curl
 stow
 tree
 keychain
+pv
 
 #not on localhost
 #ledger
