@@ -6,6 +6,7 @@ aptitude
 #shell
 vim
 zsh
+zsh-syntax-highlighting
 silversearcher-ag
 htop
 tmux
@@ -16,6 +17,8 @@ subversion
 rgxg
 gawk
 num-utils
+pwgen
+
 # cant live without "column -t"
 bsdmainutils
 # https://xkcd.com/1168/
@@ -53,6 +56,7 @@ strace
 lsof
 telnet
 rgxg
+ipcalc
 #ansible
 #rkhunter
 #etckeeper

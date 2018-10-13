@@ -16,3 +16,15 @@ sudo apt-get update
 sudo apt-get -y install docker-ce
 sudo docker run hello-world
 
+echo add this:
+nmcli device show | grep IP4.DNS | head -n 1 | awk '{print $2;}'
+echo to /etc/docker/daemon.json 
+
+IP=$(nmcli device show | grep IP4.DNS | head -n 1 | awk '{print $2;}')
+cat <<EOL
+{
+  "dns": ["${IP}"]
+}
+EOL
+
+

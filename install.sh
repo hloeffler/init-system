@@ -12,7 +12,9 @@ gawk \
 git \
 hping3 \
 htop \
+ipcalc \
 jq \
+keepassxc \
 keychain \
 less \
 libav-tools \
@@ -26,6 +28,8 @@ openconnect \
 oping \
 perltidy \
 powertop \
+pv \
+pwgen \
 python-pip \
 redshift \
 rgxg \

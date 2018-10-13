@@ -2,6 +2,12 @@
 set -euo pipefail
 IFS=$'\n\t'
 
+#TODO set push - git remote set-url --push origin git@github.com:hloeffler/zsh-config.git
+
+
+#TODO use system package and
+#source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
 DDIRECTORY="$HOME/.dotfiles/"
 mkdir -p "${DDIRECTORY}"
 cd "${DDIRECTORY}"
